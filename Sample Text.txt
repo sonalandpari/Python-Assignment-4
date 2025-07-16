@@ -1,0 +1,4 @@
+This is a sample file
+It contains only 4 lines
+This lines
+And this is the end.
